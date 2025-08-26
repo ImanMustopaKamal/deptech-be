@@ -31,6 +31,12 @@
 $ npm install
 ```
 
+## Run seeder
+
+```bash
+$ npm run seed
+```
+
 ## Compile and run the project
 
 ```bash
