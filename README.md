@@ -31,6 +31,12 @@
 $ npm install
 ```
 
+## Run migration
+
+```bash
+$ npx prisma migrate dev
+```
+
 ## Run seeder
 
 ```bash
